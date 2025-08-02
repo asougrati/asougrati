@@ -1,4 +1,5 @@
-## Hi there 👋
+I am a third-year Computer Science student at Northeastern University with an interest in Computer Engineering. I find computer science and computer engineering intriguing as I will be able to learn not only how computers tick, but also how to recreate and build on current models, which has always been a goal of mine. 
+
 
 <!--
 **asougrati/asougrati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
